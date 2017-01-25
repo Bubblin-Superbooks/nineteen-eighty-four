@@ -1,0 +1,29 @@
+blockquote {
+    font-family: 'EB Garamond', serif;
+    margin: 2vh 0;
+    padding: 0;
+    quotes: "\201C""\201D""\2018""\2019";
+    color: #666 font-weight: 100;
+}
+
+blockquote:before {
+    color: #0c0;
+    content: open-quote;
+    font-size: 6vw;
+    line-height: 0.1vw;
+    margin-right: -0.1vw;
+    vertical-align: -0.9vw;
+}
+
+blockquote:after {
+    color: #0c0;
+    content: close-quote;
+    font-size: 6vw;
+    line-height: 0.4vw;
+    margin-left: 0.5vw;
+    vertical-align: -0.9vw;
+}
+
+.right {
+    float: right;
+}
