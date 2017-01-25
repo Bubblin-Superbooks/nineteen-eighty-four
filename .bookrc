@@ -5,6 +5,7 @@
     "JS": "js",
     "HEAD": "html"
   },
-  "name": "nineteen-eighty-four",
-  "type": "novel"
+  "name": "Nineteen Eighty-Four",
+  "type": "novel",
+  "book_id": 370
 }
