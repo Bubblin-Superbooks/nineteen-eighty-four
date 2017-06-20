@@ -1,8 +1,6 @@
 {
   "url": "http://gutenberg.net.au/ebooks01/0100021.txt",
-  "basename": "0100021.txt",
-  "dir": "http://gutenberg.net.au/ebooks01",
-  "compressor": ".txt",
+  "basename": "0100021",
   "START_PAGE": "9",
-  "repo_url": "https://github.com/marvindanig/nineteen-eighty-four"
+  "repo_url": ""
 }
