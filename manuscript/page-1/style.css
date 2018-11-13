@@ -48,5 +48,8 @@ body:before {
 }
 
 h1 {
-  color: #f70;
+  color: #333;
+  font-size: 12vw;
+  font-weight: 600;
+  font-kerning: none;
 }
