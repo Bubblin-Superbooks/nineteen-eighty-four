@@ -2,14 +2,22 @@ html, body {
   background: #fff;
   margin: 0 0;
   overflow: hidden;
-  color: #444;
-  font: 4.5vw/1.20 'EB Garamond', serif;
+  color: #222;
   height:100vh;
   width:100vw;
+  font-family: 'EB Garamond', serif;
+  font-style: normal;
+  font-synthesis: none;
+  font-stretch: ultra-condensed;
+  font-variant: no-common-ligatures proportional-nums slashed-zero;
+  font-size: 4vw;
+  line-height: calc(4vw * 1.50);
+  font-kerning: normal;
+  text-rendering: geometricPrecision;
 }
 
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
   margin: 1vw 0;
   padding: 0;
   color: #444;
@@ -24,7 +32,8 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'PT Sans Narrow', serif;
+    /* font-family: 'Orbitron', serif; */
+    font-family: 'PT Sans Narrow', serif;    
     margin: 2vw 0;
     padding: 0;
 }
@@ -39,7 +48,6 @@ a {
   color: #0077ff;
   outline: 0 none;
   text-decoration: none;
-  text-rendering: optimizelegibility;
 }
 
 a:focus,
@@ -64,8 +72,11 @@ a:active {
 }
 
 .inner {
-  margin: 10% auto;
-  width: 85%;
+  margin: 10% auto; 
+  width: 85vw;
+  height: calc(17 * (4vw * 1.5) + 4vw);
+  break-after: right;
+  /* background: aliceblue; */
 }
 
 .flex {
@@ -80,21 +91,69 @@ a:active {
 }
 
 p {
-    margin: 3vw 0;
+    text-indent: 5vw;  
+    margin: 0 0 0 0;
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
     hyphens: auto;
 }
 
+.no-indent {
+  text-indent: 0;
+}
+
+/*
 p.chapter-begin:first-letter {
   display: inline-block;
-  margin: 5vw 1vw .1vw 0;
+  margin: 0;
   float: left;
-  line-height: 10vw;
-  font-size: 25vw;
-  color: hsla(11, 50%, 50%, 1);
+  line-height: calc(1 * 4vw * 1.50);
+  font-size: 12vw;
+  color: hsla(0, 0%, 0%, 1);
   font-family: 'Luckiest Guy', serif;
 }
+
+*/
+
+
+hr.section {
+  border: 0;
+  text-align: center;
+  height: calc(4vw * 1.50);          /* Take a break of two lines only. */
+  margin: calc((4vw * 1.50)/2) 0; 
+}
+
+hr.section::after {
+  content: " ";
+}
+
+hr.section::before {
+  content: "⥈";
+  color: black;
+}
+
+
+hr.chapter {
+  border: 0;
+  text-align: center;
+  height: calc(4vw * 1.50);          /* Take a break of two lines only. */
+  margin: calc((4vw * 1.50)/2) 0; 
+}
+
+hr.chapter::after {
+  content: " ";
+}
+
+hr.chapter::before {
+  content: "⥈";
+  color: black;
+}
+
+
+.pad-vertically{
+  padding: calc(4vw * 1) 0;
+}
+
 
 .center {
   text-align: center;
