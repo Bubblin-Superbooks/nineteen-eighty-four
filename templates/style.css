@@ -102,20 +102,6 @@ p {
   text-indent: 0;
 }
 
-/*
-p.chapter-begin:first-letter {
-  display: inline-block;
-  margin: 0;
-  float: left;
-  line-height: calc(1 * 4vw * 1.50);
-  font-size: 12vw;
-  color: hsla(0, 0%, 0%, 1);
-  font-family: 'Luckiest Guy', serif;
-}
-
-*/
-
-
 hr.section {
   border: 0;
   text-align: center;
@@ -124,7 +110,7 @@ hr.section {
 }
 
 hr.section::after {
-  content: " ";
+  content: "✠";
 }
 
 hr.section::before {
