@@ -151,6 +151,8 @@ hr.chapter::before {
 }
 
 
+/*
+
 blockquote {
     font-family: 'EB Garamond', serif;
     margin: 2vh 0;
@@ -177,4 +179,37 @@ blockquote:after {
     line-height: 0.4vw;
     margin-left: 0.5vw;
     vertical-align: -0.9vw;
+}
+
+
+*/
+
+
+
+
+blockquote {
+  text-align:center;
+  font-size: 90%;
+  font-style: italic;
+  border-top:1px solid #ccc;
+  border-bottom:1px solid #ccc;
+  position:relative;
+  quotes: "\201C""\201D""\2018""\2019";
+  width: 90%;
+  margin: calc( 4 * (150vh *(1115/1443))/100 * 7/5) auto;
+}
+
+blockquote p {
+  margin: calc( 4 * (150vh *(1115/1443))/100 * 7/5) auto !important;
+}
+
+
+pre, code {
+  white-space: pre-wrap;     
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;  
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
+  margin: 0 auto calc( 4 * (150vh *(1115/1443))/100 * 7/5); 
+  font-size: 90%;  
 }

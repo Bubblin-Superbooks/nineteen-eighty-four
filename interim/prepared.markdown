@@ -7921,8 +7921,8 @@ what they wanted him to confess, and then confess it quickly, before the
 bullying started anew. He confessed to the assassination of eminent Party
 members, the distribution of seditious pamphlets, embezzlement of public
 funds, sale of military secrets, sabotage of every kind. He confessed that
-he had been a spy in the pay of the Eastasian government as far back as
-1968. He confessed that he was a religious believer, an admirer of
+he had been a spy in the pay of the Eastasian government as far back as 1968. 
+He confessed that he was a religious believer, an admirer of
 capitalism, and a sexual pervert. He confessed that he had murdered his
 wife, although he knew, and his questioners must have known, that his wife
 was still alive. He confessed that for years he had been in personal touch
