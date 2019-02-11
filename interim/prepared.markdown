@@ -1,9 +1,9 @@
 # Nineteen eighty-four
+
+
 ## George Orwell (pseudonym of Eric Blair) 
 
 ### (1903-1950)
-
-
 
 
 ### PART ONE
@@ -195,7 +195,7 @@ second. A tremor had gone through his bowels. To mark the paper was the
 decisive act. In small clumsy letters he wrote:
 
 
->   April 4th, 1984.
+>  April 4th, 1984.
 
 
 He sat back. A sense of complete helplessness had descended upon him. To
@@ -234,7 +234,10 @@ down the page, shedding first its capital letters and finally even its
 full stops:
 
 
-   April 4th, 1984. Last night to the flicks. All war films. One very good
+> April 4th, 1984. 
+
+
+Last night to the flicks. All war films. One very good
 one of a ship full of refugees being bombed somewhere in the Mediterranean.
 Audience much amused by shots of a great huge fat man trying to swim away
 with a helicopter after him, first you saw him wallowing along in the
@@ -589,6 +592,7 @@ drum, but his face, from long habit, was probably expressionless. He got
 up and moved heavily towards the door.
 
 
+---
 
 
 #### Chapter 2
