@@ -890,6 +890,7 @@ deposited it on the corner of the cover, where it was bound to be shaken
 off if the book was moved.
 
 
+---
 
 
 #### Chapter 3
@@ -1155,6 +1156,7 @@ lunge, succeeded in touching his toes with knees unbent, for the first
 time in several years.
 
 
+---
 
 
 #### Chapter 4
@@ -1494,6 +1496,7 @@ forgery was forgotten, he would exist just as authentically, and upon the
 same evidence, as Charlemagne or Julius Caesar.
 
 
+---
 
 
 #### Chapter 5
@@ -1998,6 +2001,7 @@ the struggle round the lifts, and the remaining tobacco fell out of
 Winston's cigarette.
 
 
+---
 
 
 #### Chapter 6
@@ -2195,6 +2199,7 @@ at last, but it made no difference. The therapy had not worked. The urge
 to shout filthy words at the top of his voice was as strong as ever.
 
 
+---
 
 
 #### Chapter 7
@@ -2580,6 +2585,7 @@ axiom, he wrote:
 granted, all else follows.
 
 
+---
 
 
 #### Chapter 8
@@ -3751,6 +3757,8 @@ at Winston out of nests of hair.
 
 
 
+---
+
 
 #### Chapter 2
 
@@ -4094,6 +4102,7 @@ mixed up with fear and hatred. Their embrace had been a battle, the climax
 a victory. It was a blow struck against the Party. It was a political act.
 
 
+---
 
 
 #### Chapter 3
@@ -4424,6 +4433,7 @@ And in her practical way she scraped together a small square of dust,
 and with a twig from a pigeon's nest began drawing a map on the floor.
 
 
+---
 
 
 #### Chapter 4
@@ -4806,6 +4816,7 @@ own, fixed in a sort of eternity at the heart of the crystal.
 
 
 ---
+
 
 #### Chapter 5
 
@@ -6075,6 +6086,9 @@ knows that one will ultimately read and re-read every word, he opened it
 at a different place and found himself at #### Chapter III. He went on reading:
 
 
+---
+
+
 #### Chapter III
 
 ##### War is Peace
@@ -6563,6 +6577,7 @@ best way. Then you can explain it to me as you go.'
 The clock's hands said six, meaning eighteen. They had three or four hours
 ahead of them. He propped the book against his knees and began reading:
 
+---
 
 #### Chapter I
 

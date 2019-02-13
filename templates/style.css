@@ -74,7 +74,7 @@ a:active {
 .inner {
   margin: 10% auto; 
   width: 85vw;
-  height: calc(17 * (4vw * 1.5) + 4vw);
+  max-height: calc(17 * (4vw * 1.5) + 4vw);
   break-after: right;
   /* background: aliceblue; */
 }
@@ -110,11 +110,11 @@ hr.section {
 }
 
 hr.section::after {
-  content: "✠";
+  content: "";
 }
 
 hr.section::before {
-  content: "⥈";
+  content: "❦"; 
   color: black;
 }
 
@@ -191,8 +191,6 @@ blockquote {
   text-align:center;
   font-size: 90%;
   font-style: italic;
-  border-top:1px solid #ccc;
-  border-bottom:1px solid #ccc;
   position:relative;
   quotes: "\201C""\201D""\2018""\2019";
   width: 90%;
