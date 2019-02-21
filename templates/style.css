@@ -32,7 +32,6 @@ h3,
 h4,
 h5,
 h6 {
-    /* font-family: 'Orbitron', serif; */
     font-family: 'PT Sans Narrow', serif;    
     margin: 2vw 0;
     padding: 0;
@@ -72,11 +71,11 @@ a:active {
 }
 
 .inner {
-  margin: 10% auto; 
+  margin: calc((100vh - (17 * (4vw * 1.5) + 4vw))/2) auto; 
   width: 85vw;
   max-height: calc(17 * (4vw * 1.5) + 4vw);
-  break-after: right;
-  /* background: aliceblue; */
+  break-after: right; 
+   /*background: aliceblue; */
 }
 
 .flex {
@@ -93,13 +92,14 @@ a:active {
 p {
     text-indent: 5vw;  
     margin: 0 0 0 0;
-    -webkit-hyphens: auto;
-    -moz-hyphens: auto;
-    hyphens: auto;
 }
 
 .no-indent {
   text-indent: 0;
+}
+
+.stretch-last-line {
+  text-align-last: justify;
 }
 
 hr.section {
@@ -114,7 +114,7 @@ hr.section::after {
 }
 
 hr.section::before {
-  content: "❦"; 
+  content: "❖"; 
   color: black;
 }
 
@@ -149,42 +149,6 @@ hr.chapter::before {
 .small {
   font-size: 80%;
 }
-
-
-/*
-
-blockquote {
-    font-family: 'EB Garamond', serif;
-    margin: 2vh 0;
-    padding: 0;
-    quotes: "\201C""\201D""\2018""\2019";
-    color: #222;
-    font-weight: 100;
-    font-style: italic;
-}
-
-blockquote:before {
-    color: #0cf;
-    content: open-quote;
-    font-size: 6vw;
-    line-height: 0.1vw;
-    margin-right: -0.1vw;
-    vertical-align: -0.9vw;
-}
-
-blockquote:after {
-    color: #0cf;
-    content: close-quote;
-    font-size: 6vw;
-    line-height: 0.4vw;
-    margin-left: 0.5vw;
-    vertical-align: -0.9vw;
-}
-
-
-*/
-
-
 
 
 blockquote {
